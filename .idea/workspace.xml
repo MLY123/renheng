@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8946636a-e541-474b-8bd5-1ed07d07c0b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/360jietiao.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/query.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/question.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/verifiedcode.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/findpassword1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/findpassword2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/findpassword3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/findusername.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/register1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/register2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/load.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1496">
-              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="283">
+              <caret line="137" column="8" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -80,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/register2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -121,9 +104,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/register1.html" />
         <option value="$PROJECT_DIR$/html/register2.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -292,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531358915914</updated>
-      <workItem from="1531358917335" duration="328000" />
+      <workItem from="1531358917335" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328000" />
+    <option name="totallyTimeSpent" value="586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="176" y="67" width="1398" height="877" extended-state="0" />
@@ -348,14 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1496">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/findpassword1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -389,6 +364,14 @@
             <element signature="n#style#0;n#input#0;n#div#3;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#4;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="137" column="8" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
